@@ -5,9 +5,9 @@
 
 -   HTML
 -   CSS
--   Javascript <br><br>
+-   Javascript <br>
 
 
-# <p> Demo <p>
+# <p> Site-Demo <p>   
 - Desktop View :  <br><br> 
- ![](DOWNLOADED%20FILES/design/desktop-design.jpg) <br><br> 
+ <img src="DOWNLOADED FILES/design/desktop-design.jpg"> <br><br> 

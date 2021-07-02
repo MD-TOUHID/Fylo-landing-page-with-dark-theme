@@ -680,7 +680,7 @@ i.fab.fa-instagram {
         position: fixed;
         width: 100%;
         min-height: 100vh;
-        margin-top: 4.9rem;
+        margin-top: 4.5rem;
         background: linear-gradient(
         180deg, #2d314d 0%, rgba(45, 49, 77, 0) 100%);
         top: 0;
@@ -1000,7 +1000,9 @@ i.fab.fa-instagram {
         width: 100px;
     }
 
-
+    .header_menu {
+        margin-top: 4.5rem;
+    }
 
 
     /* Section-1 */

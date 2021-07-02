@@ -10,4 +10,4 @@
 
 # <p> Demo <p>
 - Desktop View :  <br><br> 
- ![](DOWNLOADED%20FILES/design/desktop-preview.jpg) <br><br> 
+ ![](DOWNLOADED%20FILES/design/desktop-design.jpg) <br><br> 

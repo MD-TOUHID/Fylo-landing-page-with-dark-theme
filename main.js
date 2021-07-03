@@ -25,3 +25,14 @@ function emailValidate () {
         document.getElementById("validationText").style.visibility = "visible";
     }
 }
+
+
+// inputField Enter CLick
+
+const inputField = document.querySelector("#input-field");
+
+inputField.addEventListener('keyup', e => {
+    if(e.keyCode == 13) {
+        emailValidate();
+    }
+});

@@ -36,5 +36,5 @@ inputField.addEventListener('keyup', e => {
         emailValidate();
     }
 });
-console.log("inputField");
+
 
